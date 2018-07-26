@@ -1,6 +1,6 @@
 # Motion Reveal Slideshow
 
-A simple image slideshow with a motion reveal effect and a fullscreen details view.
+A simple image slideshow with a motion reveal effect and a fullscreen details view. Inspired by Louis Ansa's ["Paradis - Reprise"](https://www.instagram.com/p/Bjr-3Gbj_ZE/?taken-by=louis_ansa).
 
 ![Motion Reveal Slideshow](https://tympanus.net/codrops/wp-content/uploads/2018/07/MotionRevealSlideshow_featured.jpg)
 
